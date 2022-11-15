@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.rlabrecque.steamworks.net", "com.rlabrecque.steamworks.net.csproj", "{17ae88b6-ae93-6119-9d20-4c2eaa02a7f4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{478e4eae-2e73-d273-d426-3681e3bd57e1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.rlabrecque.steamworks.net.editor", "com.rlabrecque.steamworks.net.editor.csproj", "{67953798-e6cd-76f5-2c4f-9fdf93ad03f0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17ae88b6-ae93-6119-9d20-4c2eaa02a7f4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17ae88b6-ae93-6119-9d20-4c2eaa02a7f4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478e4eae-2e73-d273-d426-3681e3bd57e1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478e4eae-2e73-d273-d426-3681e3bd57e1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67953798-e6cd-76f5-2c4f-9fdf93ad03f0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67953798-e6cd-76f5-2c4f-9fdf93ad03f0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
